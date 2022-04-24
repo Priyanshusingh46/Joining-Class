@@ -1,3 +1,3 @@
 # Join Class
 
-Join Class automatically: [Click Here](https://github.com/Priyanshusingh46/Joining-Class)
+Join Class automatically: [Click Here](https://priyanshusingh46.github.io/Joining-Class/)
